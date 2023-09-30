@@ -16,3 +16,7 @@ A simple calculator application built using Python's Tkinter library with custom
 ## Customization
 
 You can customize the appearance of the calculator by modifying the attributes of the buttons in the `main.py` script.
+
+### Future Changes
+
+I want to implement the support for keyboard input, giving the user more options for the interaction with the program.
